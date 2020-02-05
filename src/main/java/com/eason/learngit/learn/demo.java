@@ -1,4 +1,4 @@
-package com.eason.learngit.demo;
+package com.eason.learngit.learn;
 
 /**
  * demo
