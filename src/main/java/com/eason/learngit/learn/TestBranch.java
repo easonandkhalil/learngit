@@ -7,4 +7,6 @@ package com.eason.learngit.learn;
  * @date 2020/02/2020-02-19
  */
 public class TestBranch {
+
+    public TestBranch(){};
 }
