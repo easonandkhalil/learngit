@@ -1,0 +1,10 @@
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+target/classes/com/eason/learngit/learn/AbstractDao.class
+target/classes/com/eason/learngit/learn/BaseDao.class
+target/classes/com/eason/learngit/learn/demo.class
+target/classes/com/eason/learngit/learn/TestBranch.class
+target/classes/com/eason/learngit/learn/User.class
+target/classes/com/eason/learngit/learn/UserDao.class
+.project
+.classpath
